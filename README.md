@@ -35,15 +35,15 @@ An AI-powered Resume Analyzer built using React.js and Node.js that analyzes res
 
 ### Dashboard
 
-![Dashboard](Screenshots/AI-Resume-Analyzer Dashboard.jpeg)
+![Dashboard](AI-Resume-Analyzer%20Dashboard.jpeg)
 
 ### Upload Resume
 
-![Upload Resume](Screenshots/Chooose File to Upload Resume .jpeg)
+![Upload Resume](Chooose%20File%20to%20Upload%20Resume%20.jpeg)
 
 ### Result Analysis
 
-![Result](Screenshots/Result of Uploded Resume .jpeg)
+![Result](Result%20of%20Uploaded%20Resume%20.jpeg)
 
 ---
 
